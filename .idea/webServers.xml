@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29d0f319-047b-41e1-98a6-030c2e95f326" name="mmdetection">
+        <fileTransfer accessType="SFTP" host="192.168.10.80" port="17225" sshConfigId="1b9bdd39-784e-4d0e-908c-cb028f40cfaf" sshConfig="root@192.168.10.80:17225 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

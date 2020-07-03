@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9699394-4aad-4a60-80f0-2b7b5959cc3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/coco.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/coco128.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/get_coco2017.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hubconf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inference/images/bus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inference/images/zidane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/experimental.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3-spp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-fpn.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-panet.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5l.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5m.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5s.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5x.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/activations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/torch_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/download_weights.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="327d5c8e-fa59-4193-be33-90dfdeb231e3" />
+  <component name="ProjectId" id="1eAcLeiqPRmvsEwxqz6S52Ewod6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\wheat_yolov5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\wheat_yolov5\tools" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9699394-4aad-4a60-80f0-2b7b5959cc3c" name="Default Changelist" comment="" />
+      <created>1593767783275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593767783275</updated>
+      <workItem from="1593767784436" duration="654000" />
+      <workItem from="1593768531335" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1593768603204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593768603204" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593767820816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593767820816" />
+    <state x="838" y="250" key="ftp.server.browser" timestamp="1593768590233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="250" key="ftp.server.browser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593768590233" />
+  </component>
+</project>
